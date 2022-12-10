@@ -24,11 +24,31 @@
 
 ## Sobre
 
-🚧 Em construção 🚧
+Projeto desenvolvido durante o bootcamp Ignite da RocketSeat na trilha de React Native cujo objetivo foi colocar em prática os ensinamentos do curso e consolidar as habilidades de construção de aplicativos móveis.
 
 ## Github Explorer
 
-🚧 Em construção 🚧
+O Github Explorer tem como objetivo deixar repositórios do interesse dos usuários altamente acessíveis para facilitar a visualização de seus números e os PRs abertos.
+
+Ao acessar o app, o usuário irá se deparar com a tela abaixo, aonde estará contida a lista de repositórios adicionados por ele e um campo de busca para a adição de novos repositórios:
+
+<img src="readme/home-empty.png" alt="Home vazia" height="500" />
+
+Após adicionar repos de interesse, o usuário terá a seguinte visualização:
+
+<img src="readme/home-populated.png" alt="Home com repos adicionados" height="500" />
+
+Cada projeto adicionado é um card clicável contendo informações do proprietário e do repo e, quando clicado, direcionará para a tela abaixo aonde mais detalhes serão exibidos:
+
+<img src="readme/repository-details.png" alt="Detalhes de um repositório" height="500" />
+
+Além dos números atuais do projeto, teremos uma listagem de cards clicáveis contendo os PRs abertos. Ao clicar no PR de interesse para acompanhar as discussões e prováveis mudanças, o usuário será direcionado para os detalhes do PR no Github, conforme exemplificado a seguir:
+
+<img src="readme/pr-details.png" alt="Detalhes de um PR" height="500" />
+
+Em resumo, são essas as funcionalidades da aplicação. App muito objetivo para atender o objetivo proposto e para ilustrar tamanha objetividade, deixo abaixo um GIF do projeto em funcionamento aonde mostro todas as funcionalidades listadas acima e também a exclusão de um repo o qual não é mais de interesse do usuário monitora-lo:
+
+<img src="readme/app-demo.gif" alt="Demonstração do app" height="500" />
 
 ## Instalação
 
